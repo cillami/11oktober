@@ -34,7 +34,7 @@ function stackMe(){
 }
 ```
 
-Dålig grej | Bra grej
+**Dålig grej** | **Bra grej**
 ------------ | -------------
 Dålig grej 1 | Bra grej 1
 Dålig grej 2 | Bra grej 2
