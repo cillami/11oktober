@@ -5,7 +5,7 @@
 ### This is a sub sub heading
 
 
-[Link to cool site](http://commitlogsfromlastnight.com)
+[Link to a cool site](http://commitlogsfromlastnight.com)
 
 ![katt](http://uploads.unitedinfluencers.se/uploads/sites/2/2013/04/cat1.jpg)
 
